@@ -16,3 +16,13 @@ obj/
 Assembly-CSharp\.csproj
 
 AudioGame\.sln
+
+UnityCrashHandler64\.exe
+
+WinPixEventRuntime\.dll
+
+UnityPlayer\.dll
+
+MonoBleedingEdge/
+
+AudioBlindGame_Data/
