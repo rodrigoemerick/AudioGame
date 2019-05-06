@@ -58,7 +58,7 @@ public class AudioManager : MonoBehaviour
 
     private IEnumerator WaitForFirstHint()
     {
-        yield return new WaitForSeconds(17.0f);
+        yield return new WaitForSeconds(20.0f);
         StartCoroutine(ExplodeBombTime());
         m_StorytellerIndx++;
         m_Storyteller.clip = m_StorytellerClips[m_StorytellerIndx];
